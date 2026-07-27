@@ -1,172 +1,175 @@
-<h1 align="center">Hi 👋, I'm Varun D</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Information Science Engineering Student | 🐍 Python Developer | 🤖 AI Enthusiast | 🌐 Full-Stack Learner
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Varun D
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Python+Developer;AI+Enthusiast;Full+Stack+Developer;Open+Source+Learner;Always+Learning+Something+New!" />
 
-<p align="center">
-<a href="https://github.com/VarunvarunD">
-<img src="https://img.shields.io/github/followers/VarunvarunD?label=Followers&style=for-the-badge"/>
-</a>
-<a href="https://github.com/VarunvarunD">
+<p>
+<img src="https://komarev.com/ghpvc/?username=VarunvarunD&label=Visitors&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/VarunvarunD?logo=github&style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/VarunvarunD?affiliations=OWNER&style=for-the-badge"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=VarunvarunD&style=for-the-badge&color=blue"/>
 </p>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# <img src="https://img.icons8.com/color/48/developer.png" width="35"/> About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 Information Science Engineering Student
 
-💡 Passionate about Artificial Intelligence, Python, and Full-Stack Development.
+💻 Python Developer
 
-🌱 Currently Learning
+🤖 AI Enthusiast
+
+🌐 Full Stack Developer
+
+📚 Currently Learning
 
 - Advanced Python
-- React.js
+- React
 - Node.js
 - TypeScript
-- Data Structures & Algorithms
-- AI & Machine Learning
+- Machine Learning
+- DSA
 
-🚀 Goal
+🎯 Goal
 
-Become a Software Engineer specializing in AI-powered applications.
+Become an AI Software Engineer.
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
-## 💻 Programming Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/><br><br>
 
-## 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express"/><br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/><br><br>
 
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-## 🤖 AI / Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-- NumPy
-- Matplotlib
-- Plotly
-- Pandas
-- Scikit-learn
-
-## 🛠 Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,latex"/>
-</p>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 Jnanam – AI Smart Book Search Platform
+<table>
 
-🔹 AI-powered book discovery platform
+<tr>
 
-✨ Features
+<td width="50%">
 
-- AI Book Search
-- Open Library API Integration
-- Reviews
-- Recommendations
-- Responsive UI
+### 📚 Jnanam
 
----
+AI-powered Book Search Platform
 
-## 🎬 Video Forge
+✅ Open Library API
 
-AI-powered video generation application.
+✅ AI Search
 
-### Features
+✅ Reviews
 
-- AI Workflow
-- Modern UI
-- Backend API
-- Authentication
+✅ Recommendations
 
----
+</tr>
 
-## 🌐 Portfolio Website
+<tr>
 
-Modern responsive portfolio built using React and TypeScript.
+<td>
+
+### 🌐 Portfolio
+
+Modern Portfolio Website
+
+React
+
+TypeScript
+
+Responsive
+
+Fast
+
+</td>
+
+<td>
+
+### 🚀 More Projects
+
+Coming Soon...
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VarunvarunD&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VarunvarunD&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunvarunD&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunvarunD&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=VarunvarunD&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VarunvarunD&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunvarunD&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VarunvarunD&theme=algolia&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
 # 🌎 Connect With Me
 
-<p align="left">
+<div align="center">
+
+<a href="https://github.com/VarunvarunD">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -176,40 +179,24 @@ Modern responsive portfolio built using React and TypeScript.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/VarunvarunD">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# ✍️ Random Dev Quote
+# ✨ Quote
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-# 😂 Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+</div>
 
 ---
 
-# ☕ Support Me
+<div align="center">
 
-If you like my work, consider giving ⭐ to my repositories.
+### ⭐ Thanks for visiting my profile!
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=VarunvarunD&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
-<p align="center">
-
-⭐ From <a href="https://github.com/VarunvarunD">Varun D</a>
-
-</p>
+</div>
